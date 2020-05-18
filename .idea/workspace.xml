@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5734f31b-3fde-46bf-93dd-367444c4e6ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bmDljeV9W3NwJTiAp6Lr07qD1r" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Projekty/JsfJava/SpringBootAndJsf" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainRSa" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainRSa" />
+      <module name="Rsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5734f31b-3fde-46bf-93dd-367444c4e6ab" name="Default Changelist" comment="" />
+      <created>1589228527089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589228527089</updated>
+      <workItem from="1589228530201" duration="6235000" />
+      <workItem from="1589308639397" duration="6956000" />
+      <workItem from="1589394875395" duration="9268000" />
+      <workItem from="1589461485521" duration="18000" />
+      <workItem from="1589484176865" duration="1355000" />
+      <workItem from="1589570324510" duration="87000" />
+      <workItem from="1589664053981" duration="642000" />
+      <workItem from="1589695304521" duration="1179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1589228535669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1589228535669" />
+    <state x="677" y="178" key="#Unnamed" timestamp="1589228720938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="178" key="#Unnamed/0.0.1920.1040@0.0.1920.1040" timestamp="1589228720938" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589229085764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589229085764" />
+    <state x="689" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589229082945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589229082945" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1589664091810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589664091810" />
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom" timestamp="1589405513463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589405513463" />
+    <state width="1877" height="342" key="GridCell.Tab.0.center" timestamp="1589405513462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589405513462" />
+    <state width="1877" height="342" key="GridCell.Tab.0.left" timestamp="1589405513462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589405513462" />
+    <state width="1877" height="342" key="GridCell.Tab.0.right" timestamp="1589405513463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589405513463" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589228931194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589228931194" />
+    <state x="342" y="140" key="new project wizard" timestamp="1589403951146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589403951146" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589228681112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589228681112" />
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589233225499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589233225499" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainRSa.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MainRSa.java</url>
+          <line>181</line>
+          <properties class="MainRSa" method="deszyfrowanieObliczM">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
